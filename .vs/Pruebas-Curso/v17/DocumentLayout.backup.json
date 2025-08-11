@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1729E80-5269-5DA1-68CA-FE77606C085D}|PruebaApi\\PruebaApi.csproj|c:\\users\\dicamacho\\documents\\pruebas-curso\\pruebaapi\\controllers\\v1\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1729E80-5269-5DA1-68CA-FE77606C085D}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\controllers\\v1\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1729E80-5269-5DA1-68CA-FE77606C085D}|PruebaApi\\PruebaApi.csproj|c:\\users\\dicamacho\\documents\\pruebas-curso\\pruebaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1729E80-5269-5DA1-68CA-FE77606C085D}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\Controllers\\V1\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "PruebaApi\\Controllers\\V1\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\Controllers\\V1\\CategoriasController.cs",
+              "RelativeToolTip": "PruebaApi\\Controllers\\V1\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:13:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "PruebaApi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "PruebaApi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv2UAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:08:29.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

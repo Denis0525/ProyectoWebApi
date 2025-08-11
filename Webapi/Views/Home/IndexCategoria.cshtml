@@ -1,0 +1,35 @@
+@model IEnumerable<Webapi.Models.Pelicula>
+@{
+    ViewData["Title"] = "Filtrar Peliculas en Categorías";
+}
+<!--lista de peliculas-->
+<div class="row mt-3">
+    @if (Model != null && Model.Count() > 0)
+    {
+        @foreach (var pelicula in Model)
+        {
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+                <div class="card h-100">
+                    @if (!string.IsNullOrEmpty(pelicula.RutaImagen))
+                    {
+                       <img src="@pelicula.RutaImagen" class="card-img-top img-fluid" />
+                    }
+                    else
+                    {
+                          <img src="~/Imagenes/error.jpg" class="card-img-top img-fluid" />
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@pelicula.Nombre</h5>
+                        <p class="card-text">Duracion: @pelicula.Duracion</p>
+                        <p class="card-text">Fecha de Creacion: @pelicula.FechadeCreacion.ToString("dd/MM/yyyy")</p>
+                        <p class="card-text">@pelicula.Descripcion</p>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No hay Peliculas para mostrar</p>
+    }
+</div>

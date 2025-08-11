@@ -1,0 +1,65 @@
+﻿@model Webapi.Models.ViewModels.IndexVM
+@{
+    ViewData["Title"] = "Pagina de Inicio";
+}
+<div class="row">
+    <div class="col-6 offset-3">
+        <h3 class="text-center">Ultimas Peliculas</h3>
+    </div>
+</div>
+<div class="row">
+    <div class="col-4 offset-4">
+    <div class=" dropdown">
+        <button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">Categorías</button>
+        <ul class="dropdown-menu w-100" aria-labelledby="dropdownMenuButton">
+            @foreach( var Categorias in Model.ListaCategorias)
+            {
+               <li><a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="IndexCategoria" asp-route-id="@Categorias.Id">@Categorias.Name</a></li>
+            }
+
+        </ul>
+    </div>
+    </div>
+     <div class="col-4 ms-auto">
+    <div class=" dropdown">
+       <form asp-action="IndexBusqueda" class="d-flex">
+        <input type="search" name="nombre" placeholder="Buscar Pelicula" class="form-control me-2"/>
+        <button class="btn btn-outline-success" type="submit">
+            <i class="fas fa-search"></i>
+            </button>
+       </form>
+    </div>
+    </div>
+</div>
+   
+<!--lista de peliculas-->
+<div class="row mt-3">
+    @if (Model.ListaPeliculas?.Count() > 0)
+    {
+       @foreach (var pelicula in Model.ListaPeliculas)
+{
+    <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <div class="card h-100">
+            @if (!string.IsNullOrEmpty(pelicula.RutaImagen))
+            {
+                  <img src="@pelicula.RutaImagen" class="card-img-top img-fluid" />
+            }
+            else
+            {
+                <img src="~/Imagenes/error.jpg" class="card-img-top img-fluid" />
+            }
+            <div class="card-body">
+                <h5 class="card-title">@pelicula.Nombre</h5>
+                <p class="card-text">Duracion: @pelicula.Duracion</p>
+                <p class="card-text">Fecha de Creacion: @pelicula.FechadeCreacion.ToString("dd/MM/yyyy")</p>
+                <p class="card-text">@pelicula.Descripcion</p>
+            </div>
+        </div>
+    </div>
+        }
+    }
+    else
+    {
+        <p>No hay Peliculas para mostrar</p>
+    }
+</div>

@@ -1,0 +1,68 @@
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\appsettings.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\Webapi.staticwebassets.runtime.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\Webapi.exe
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\Webapi.deps.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\Webapi.runtimeconfig.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\Webapi.dll
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\Webapi.pdb
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.AssemblyInfoInputs.cache
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.AssemblyInfo.cs
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.csproj.CoreCompileInputs.cache
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.RazorAssemblyInfo.cache
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.RazorAssemblyInfo.cs
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.sourcelink.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.Webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.build.Webapi.props
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Webapi.props
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Webapi.props
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\scopedcss\bundle\Webapi.styles.css
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\scopedcss\projectbundle\Webapi.bundle.scp.css
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.dll
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\refint\Webapi.dll
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.pdb
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.genruntimeconfig.cache
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\ref\Webapi.dll
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.csproj.AssemblyReference.cache
+C:\Users\dicamacho\Documents\Pruebas-Curso\Webapi\obj\Debug\net8.0\Webapi.csproj.Up2Date
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\appsettings.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\Webapi.staticwebassets.runtime.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\Webapi.exe
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\Webapi.deps.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\Webapi.runtimeconfig.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\Webapi.dll
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\Webapi.pdb
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.csproj.AssemblyReference.cache
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.AssemblyInfoInputs.cache
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.AssemblyInfo.cs
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.csproj.CoreCompileInputs.cache
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.RazorAssemblyInfo.cache
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.RazorAssemblyInfo.cs
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.sourcelink.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.Webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.build.Webapi.props
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Webapi.props
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Webapi.props
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\scopedcss\bundle\Webapi.styles.css
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\scopedcss\projectbundle\Webapi.bundle.scp.css
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.csproj.Up2Date
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.dll
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\refint\Webapi.dll
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.pdb
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\Webapi.genruntimeconfig.cache
+C:\Users\dicamacho\Documents\cursosdeUdemy\Pruebas-Curso - respaldodos\Webapi\obj\Debug\net8.0\ref\Webapi.dll

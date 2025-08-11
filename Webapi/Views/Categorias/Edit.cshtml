@@ -1,0 +1,40 @@
+@model Webapi.Models.Categoria
+@{
+    ViewData["Title"] ="Crear Nueva Categoria";
+}
+<div class="container py-4">
+  <div class="row mb-4">
+    <div class="col-8">
+      <h2 class="text-primary">
+        Editar Categoria
+      </h2>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <form method="POST" asp-action="Update">
+            <input type="hidden"  asp-for="Id"/>
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+          <div class="form-group row mb-3">     
+            <label asp-for="Name" class="col-4 col-form-label"></label>
+            <div class="col-8">
+              <input asp-for="Name" class="form-control" placeholder="Ingresa el nombre de la categoria" />
+              <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+          </div>
+          <div class="form-group row">
+            <div class="col-6">
+              <button type="submit" class="btn btn-primary w-100">
+                <i class="fas fa-plus"></i>Editar Categoria
+              </button>
+            </div>
+            <div class="col-6">
+              <a asp-action="Index" class="btn btn-secondary w-100">
+                <i class="fas fa-arrow-left"></i>Volver
+              </a>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
