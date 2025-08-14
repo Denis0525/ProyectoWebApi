@@ -85,6 +85,7 @@ namespace PruebaApi.Controllers
             var itemPeliculaDto = _mapper.Map<PeliculaDto>(itemPelicula);
             return Ok(itemPeliculaDto);
         }
+        [Authorize(Roles ="Admin")]
         [HttpPost]
         [ProducesResponseType(200, Type = typeof(PeliculaDto))]
         [ProducesResponseType(StatusCodes.Status201Created)]
@@ -192,6 +193,7 @@ namespace PruebaApi.Controllers
             return NoContent();
             // return CreatedAtRoute("GetPelicula", new { peliculaId = pelicula.Id }, pelicula);
         }
+        //[Authorize(Roles ="Admin")]
         [HttpDelete("{peliculaId:int}", Name = "BorrarPelicula")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]

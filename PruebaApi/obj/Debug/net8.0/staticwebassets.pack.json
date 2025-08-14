@@ -1,12 +1,44 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\00040981f-59da-45e7-a80e-3b95f41af693.webp",
+      "PackagePath": "staticwebassets\\Imagenes\\00040981f-59da-45e7-a80e-3b95f41af693.webp"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\004c781fa-1d20-497c-87c3-cd77aa71d078.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\004c781fa-1d20-497c-87c3-cd77aa71d078.jpg"
+    },
+    {
       "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\009778efc-5186-4803-8b23-00a62199d015.jpg",
       "PackagePath": "staticwebassets\\Imagenes\\009778efc-5186-4803-8b23-00a62199d015.jpg"
     },
     {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\01af59513-e4cc-403b-8d01-25941ee28d62.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\01af59513-e4cc-403b-8d01-25941ee28d62.jpg"
+    },
+    {
       "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\01f11957a-cd79-42a6-8798-bd57af33c8a8.jpg",
       "PackagePath": "staticwebassets\\Imagenes\\01f11957a-cd79-42a6-8798-bd57af33c8a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\02e92bb9e-d1f5-41db-ae9b-d83a5ae4d34c.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\02e92bb9e-d1f5-41db-ae9b-d83a5ae4d34c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0304f2c5f-dc00-4ff9-8d3b-789222ceb759.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0304f2c5f-dc00-4ff9-8d3b-789222ceb759.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\03a493eb6-eb5b-4937-9e5b-60745e7ffde3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\03a493eb6-eb5b-4937-9e5b-60745e7ffde3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\05038bd27-9601-4083-bd87-d748d8910a78.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\05038bd27-9601-4083-bd87-d748d8910a78.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\051abc6f6-fc16-4736-b4b0-a31d2ec0c30d.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\051abc6f6-fc16-4736-b4b0-a31d2ec0c30d.jpg"
     },
     {
       "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\052abcc22-f539-4ae2-acfc-33e0beddaef2.jpg",
@@ -17,12 +49,120 @@
       "PackagePath": "staticwebassets\\Imagenes\\05682fd41-be4e-4745-aa8e-2be8a60ed462.jpg"
     },
     {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\05797442c-503d-4eba-a9c1-2a22cb96c4c2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\05797442c-503d-4eba-a9c1-2a22cb96c4c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\05c7d9c53-498a-45e7-91db-0b424aa1d5ad.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\05c7d9c53-498a-45e7-91db-0b424aa1d5ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\05f312f65-39df-45c6-89a7-a8a6e0fd6bea.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\05f312f65-39df-45c6-89a7-a8a6e0fd6bea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0644c1e4d-8288-4656-a831-9c157a4daa7a.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0644c1e4d-8288-4656-a831-9c157a4daa7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\06655c3fa-3c2e-4a35-aa13-c036f4680ecb.webp",
+      "PackagePath": "staticwebassets\\Imagenes\\06655c3fa-3c2e-4a35-aa13-c036f4680ecb.webp"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\07406f678-3647-44e0-ae11-cdc11693740b.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\07406f678-3647-44e0-ae11-cdc11693740b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\074cc7a6a-1a62-4ca1-b539-70e8a0ab3bc0.png",
+      "PackagePath": "staticwebassets\\Imagenes\\074cc7a6a-1a62-4ca1-b539-70e8a0ab3bc0.png"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\074eb3c15-8386-494f-9f8c-9470868e3370.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\074eb3c15-8386-494f-9f8c-9470868e3370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\07b6cb3c0-0f4c-4022-b677-c22d030ab115.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\07b6cb3c0-0f4c-4022-b677-c22d030ab115.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\07ebd1a03-f06b-4abd-bb4c-7c1318ac8386.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\07ebd1a03-f06b-4abd-bb4c-7c1318ac8386.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\088d28be8-746d-4649-bf26-4abe6a772a22.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\088d28be8-746d-4649-bf26-4abe6a772a22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\092a29e39-1f55-4181-a94d-633018a15472.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\092a29e39-1f55-4181-a94d-633018a15472.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\09343b805-8542-4a70-aa1e-d19829755fb3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\09343b805-8542-4a70-aa1e-d19829755fb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\09860b70d-5fc4-440d-b378-e5cb37e0caa4.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\09860b70d-5fc4-440d-b378-e5cb37e0caa4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0a099a44b-2d8c-4d4e-9bde-624f24e5bb0c.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0a099a44b-2d8c-4d4e-9bde-624f24e5bb0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0a6d1b27d-c7e5-4cd3-9c7a-237e31e418e0.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0a6d1b27d-c7e5-4cd3-9c7a-237e31e418e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0aa125577-620f-474d-ad88-eeee201bb57a.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0aa125577-620f-474d-ad88-eeee201bb57a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0ae8a68c3-491e-4c41-8b03-5c2cc9799ee2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0ae8a68c3-491e-4c41-8b03-5c2cc9799ee2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0b741e74c-3cbb-41ee-b42c-63b98470f664.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0b741e74c-3cbb-41ee-b42c-63b98470f664.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0cd62a4ef-f1b9-4991-b80a-f0161fe9870a.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0cd62a4ef-f1b9-4991-b80a-f0161fe9870a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0db17feb2-dc71-41ab-99ed-924e45a35df0.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0db17feb2-dc71-41ab-99ed-924e45a35df0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0ea91cd0c-7e8b-45e2-92d3-aefbe449f7cd.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0ea91cd0c-7e8b-45e2-92d3-aefbe449f7cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0eb0c3291-13f3-4029-a050-3f1520429f49.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0eb0c3291-13f3-4029-a050-3f1520429f49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0edd546c1-0288-4f61-b4cb-e0ac63cabfc2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0edd546c1-0288-4f61-b4cb-e0ac63cabfc2.jpg"
+    },
+    {
       "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0f16c5eda-7ab6-48c3-a8a4-282a15a044aa.jpg",
       "PackagePath": "staticwebassets\\Imagenes\\0f16c5eda-7ab6-48c3-a8a4-282a15a044aa.jpg"
     },
     {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0f4cc6504-87d0-4b20-a980-9dc2241f5733.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0f4cc6504-87d0-4b20-a980-9dc2241f5733.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0f4f6ea57-fa71-4b8b-86ce-b6713c9a488b.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0f4f6ea57-fa71-4b8b-86ce-b6713c9a488b.jpg"
+    },
+    {
       "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0fa4ef8df-3297-499c-bb5b-0133203f2cba.jpg",
       "PackagePath": "staticwebassets\\Imagenes\\0fa4ef8df-3297-499c-bb5b-0133203f2cba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\PruebaApi\\wwwroot\\Imagenes\\0faa3a775-6116-44c1-b39a-6a01ad860a58.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\0faa3a775-6116-44c1-b39a-6a01ad860a58.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PruebaApi.Microsoft.AspNetCore.StaticWebAssets.props",

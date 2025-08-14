@@ -32,10 +32,16 @@ namespace Webapi.Controllers
         {
             return View(new Pelicula() { });
         }
+        // [HttpGet]
+        // public async Task<IActionResult> GetTodoPeliculas()
+        // {
+        //     return Json(new { data = await _repoPeliculas.GetPeliculasTodoAsync(CT.RutaPeliculasApi) });
+        // }
         [HttpGet]
         public async Task<IActionResult> GetTodoPeliculas()
         {
-            return Json(new { data = await _repoPeliculas.GetPeliculasTodoAsync(CT.RutaPeliculasApi) });
+            var resultado = await _repoPeliculas.GetPeliculasTodoAsync(CT.RutaPeliculasApi);
+            return Json(new { data = resultado.Items });
         }
         [HttpGet]
         public async Task<IActionResult> Create()

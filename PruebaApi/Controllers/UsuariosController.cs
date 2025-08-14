@@ -39,7 +39,7 @@ namespace PruebaApi.Controllers
             }
             return Ok(listaUsuariosDto);
         }
-        [Authorize(Roles ="Admin")]
+        //[Authorize(Roles ="Admin")]
         [HttpGet("{usuarioId}", Name = "GetUsuario")]
         [ResponseCache(CacheProfileName ="Por defecto 30 segundos")]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]

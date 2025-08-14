@@ -17,32 +17,27 @@ namespace Webapi.Repositorio.IRepositorio
             _clienteFactory = clienteFactory;
         }
 
-        //Version mejorada para so´porte de la paginacion
-        public async Task<IEnumerable<Pelicula>> GetPeliculasTodoAsync(string url)
-        {
-           var peticion = new HttpRequestMessage(HttpMethod.Get, url);
-           var cliente = _clienteFactory.CreateClient();
+        // //Version mejorada para so´porte de la paginacion
+        // public async Task<IEnumerable<Pelicula>> GetPeliculasTodoAsync(string url)
+        // {
+        //    var peticion = new HttpRequestMessage(HttpMethod.Get, url);
+        //    var cliente = _clienteFactory.CreateClient();
 
-           HttpResponseMessage respuesta = await cliente.SendAsync(peticion);
+        //    HttpResponseMessage respuesta = await cliente.SendAsync(peticion);
 
-           if (respuesta.StatusCode == System.Net.HttpStatusCode.OK)
-           {
-               var jsonString = await respuesta.Content.ReadAsStringAsync();
-               // Deserializar a PeliculaResponse
-               var peliculaResponse = JsonConvert.DeserializeObject<PeliculaResponse>(jsonString);
-               // Devolver la lista de películas
-               return peliculaResponse?.Items ?? new List<Pelicula>();
-           }
-           else
-           {
-               return new List<Pelicula>();
-           }
-        }
-
-
-
-
-
+        //    if (respuesta.StatusCode == System.Net.HttpStatusCode.OK)
+        //    {
+        //        var jsonString = await respuesta.Content.ReadAsStringAsync();
+        //        // Deserializar a PeliculaResponse
+        //        var peliculaResponse = JsonConvert.DeserializeObject<PeliculaResponse>(jsonString);
+        //        // Devolver la lista de películas
+        //        return peliculaResponse?.Items ?? new List<Pelicula>();
+        //    }
+        //    else
+        //    {
+        //        return new List<Pelicula>();
+        //    }
+        // }
         // public async Task<PeliculaResponse> GetPeliculasTodoAsync(string url)
         // {
         //     var peticion = new HttpRequestMessage(HttpMethod.Get, url);
@@ -62,5 +57,26 @@ namespace Webapi.Repositorio.IRepositorio
         //         return new PeliculaResponse();
         //     }
         // }
+        
+        public async Task<PeliculaResponse> GetPeliculasTodoAsync(string url)
+        {
+           var peticion = new HttpRequestMessage(HttpMethod.Get, url);
+           var cliente = _clienteFactory.CreateClient();
+
+           HttpResponseMessage respuesta = await cliente.SendAsync(peticion);
+
+           if (respuesta.StatusCode == System.Net.HttpStatusCode.OK)
+           {
+               var jsonString = await respuesta.Content.ReadAsStringAsync();
+               // Deserializar a PeliculaResponse
+               var peliculaResponse = JsonConvert.DeserializeObject<PeliculaResponse>(jsonString);
+               // Devolver la lista de películas
+               return peliculaResponse?? new PeliculaResponse();
+           }
+           else
+           {
+               return new PeliculaResponse();
+           }
+        }
     }
 }

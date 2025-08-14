@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj": {}
+    "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj": {
+    "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj",
+        "projectUniqueName": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj",
         "projectName": "Webapi",
-        "projectPath": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj",
+        "projectPath": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\Webapi.csproj",
         "packagesPath": "C:\\Users\\dicamacho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\",
+        "outputPath": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

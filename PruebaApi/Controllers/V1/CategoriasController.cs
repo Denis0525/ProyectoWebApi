@@ -65,7 +65,7 @@ namespace PruebaApi.Controllers
             var itemCategoriasDto = _mapper.Map<CategoriaDto>(itemCategoria);
             return Ok(itemCategoriasDto);
         }
-        //[Authorize(Roles="Admin")]
+        [Authorize(Roles="Admin")]
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -150,6 +150,7 @@ namespace PruebaApi.Controllers
             }
             return CreatedAtRoute("GetCategoria", new { categoriaId = categoria.Id }, categoria);
         }
+        //[Authorize(Roles ="Admin")]
         [HttpDelete("{CategoriaId:int}", Name = "BorrarRegistro")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]

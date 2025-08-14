@@ -21,13 +21,31 @@ public class HomeController : Controller
         _repoCategoria = repoCategoria;
         _repoPelicula = repoPelicula;
     }
+    //V1 controller
+    // [HttpGet]
+    // public async Task<IActionResult> Index()
+    // {
+    //      IndexVM listaPeliculasCategorias = new IndexVM()
+    //     {
+    //         ListaCategorias = (IEnumerable<Categoria>)await _repoCategoria.GetTodoAsync(CT.RutaCategoriasApi),
+    //         ListaPeliculas = (IEnumerable<Pelicula>)await _repoPelicula.GetPeliculasTodoAsync(CT.RutaPeliculasApi)
+    //     };
+    //     return View(listaPeliculasCategorias);
+    // }
+
+    //V2 soporte para paginacion
     [HttpGet]
-    public async Task<IActionResult> Index()
+    public async Task<IActionResult> Index(int page =1)
     {
-         IndexVM listaPeliculasCategorias = new IndexVM()
+        const int pageSize = 5; // o la pagina de tamaño que quieras 
+        var url = $"{CT.RutaPeliculasApi}?pageNumber={page}&pageSize={pageSize}";
+        var peliculaResponse = await _repoPelicula.GetPeliculasTodoAsync(url);
+        IndexVM listaPeliculasCategorias = new IndexVM()
         {
             ListaCategorias = (IEnumerable<Categoria>)await _repoCategoria.GetTodoAsync(CT.RutaCategoriasApi),
-            ListaPeliculas = (IEnumerable<Pelicula>)await _repoPelicula.GetPeliculasTodoAsync(CT.RutaPeliculasApi)
+            ListaPeliculas = peliculaResponse.Items,
+            TotalPages = peliculaResponse.TotalPages,
+            CurrentPage = page,
         };
         return View(listaPeliculasCategorias);
     }

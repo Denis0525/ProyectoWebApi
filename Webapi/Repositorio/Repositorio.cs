@@ -127,20 +127,20 @@ namespace Webapi.Repositorio
             else
             { return false; }
         }
-    
+
 
         public async Task<bool> BorrarAsync(string url, int Id, string token = "")
         {
             var peticion = new HttpRequestMessage(HttpMethod.Delete, url + Id);
             //var multipartContent = new MultipartFormDataContent();
             var cliente = _clientFactory.CreateClient();
-              //Aqui Valida Token
+            //Aqui Valida Token
             if (string.IsNullOrEmpty(token))
             {
                 return false;
             }
             //Asigna el encabezado del token de autorizacion
-             cliente.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+            cliente.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
             HttpResponseMessage respuesta = await cliente.SendAsync(peticion);
             // validar y regresar booleano
             if (respuesta.StatusCode == System.Net.HttpStatusCode.NoContent)
@@ -159,6 +159,7 @@ namespace Webapi.Repositorio
             if (respuesta.StatusCode == System.Net.HttpStatusCode.OK)
             {
                 var jsonString = await respuesta.Content.ReadAsStringAsync();
+                // return JsonConvert.DeserializeObject<T>(jsonString);
                 return JsonConvert.DeserializeObject<IEnumerable<T>>(jsonString);
             }
             else

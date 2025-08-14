@@ -16,6 +16,8 @@ namespace Webapi.Views.Utilidades
 
         //Faltan otras rutas para buscar  y filtar peliculas por categorias
         public static string RutaPeliculasEnCategoria = UrlBaseApi + "api/v1/peliculas/GetPeliculasCategoria/";
-        public static string RutaPeliculasBusqueda = UrlBaseApi + "api/v1/peliculas/Buscar?nombre=";
+        public static string RutaPeliculasBusqueda = UrlBaseApi + "api/v1/peliculas/BuscarPelicula?nombre=";
+
+        
     }
 }

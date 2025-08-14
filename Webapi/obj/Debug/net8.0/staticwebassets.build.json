@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jJxYlmU5uL04kqfqxnJvm8axQLma0bpqX2VSaOoHSZw=",
+  "Hash": "yzT3MV6VppLmnj1sXa8KnurkWSwWYQ6/GajEbKKytAI=",
   "Source": "Webapi",
   "BasePath": "_content/Webapi",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Webapi.styles.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Webapi.styles.css",
       "SourceId": "Webapi",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Webapi",
       "RelativePath": "Webapi.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Webapi.styles.css"
+      "OriginalItemSpec": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Webapi.styles.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Webapi.bundle.scp.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Webapi.bundle.scp.css",
       "SourceId": "Webapi",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Webapi",
       "RelativePath": "Webapi.bundle.scp.css",
       "AssetKind": "All",
@@ -52,10 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Webapi.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Webapi.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\css\\site.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -74,7 +74,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\favicon.ico",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -93,7 +93,45 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\Imagenes\\error.jpg",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\Imagenes\\carrete.png",
+      "SourceId": "Webapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
+      "BasePath": "_content/Webapi",
+      "RelativePath": "Imagenes/carrete.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\carrete.png"
+    },
+    {
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\Imagenes\\cine2.jpg",
+      "SourceId": "Webapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
+      "BasePath": "_content/Webapi",
+      "RelativePath": "Imagenes/cine2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\cine2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\Imagenes\\error.jpg",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -112,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\error.jpg"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\categoria.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\categoria.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -131,12 +169,12 @@
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\Peliculas.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\categorias.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
       "BasePath": "_content/Webapi",
-      "RelativePath": "js/Peliculas.js",
+      "RelativePath": "js/categorias.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,10 +185,29 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Peliculas.js"
+      "OriginalItemSpec": "wwwroot\\js\\categorias.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\pelicula.js",
+      "SourceId": "Webapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
+      "BasePath": "_content/Webapi",
+      "RelativePath": "js/pelicula.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pelicula.js"
+    },
+    {
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\site.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -169,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\usuario.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\js\\usuario.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -188,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\js\\usuario.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -207,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -226,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -245,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -264,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -283,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -302,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -321,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -340,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -359,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -378,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -397,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -416,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -435,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -454,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -473,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -492,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -511,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -530,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -549,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -568,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -587,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -606,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -625,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -644,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -663,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -682,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -701,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -720,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -739,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -758,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -777,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -796,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -815,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -834,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -853,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -872,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -891,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -910,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -929,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -948,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -967,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -986,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1005,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1024,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1043,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1062,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1081,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1100,7 +1157,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1119,7 +1176,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1138,7 +1195,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1157,7 +1214,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1176,7 +1233,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1195,7 +1252,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1214,7 +1271,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1233,7 +1290,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
@@ -1252,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "c:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dicamacho\\Documents\\Pruebas-Curso\\Webapi\\wwwroot\\",
